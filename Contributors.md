@@ -15,6 +15,7 @@ studentID - username <br/>
 2411043 - Motoharu Okuma<br/>
 2411019 - Hayato Ide<br/>
 2211421 - Wang Zihang<br/>
+2511159 - Yosuke Sekiya <br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
 2311250 - Taichi Maeda
