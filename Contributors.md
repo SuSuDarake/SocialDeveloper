@@ -601,7 +601,6 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511096 - Hidaka Kuno </br>
 2511345 - YIN Feiyang </br>
 2511227 - Yoshito Hagihara</br>
-2511204 - Hinata Nagaoka
 2511118 - Akihiro Saeki</br>
 2511055 - Hikaru Okamoto </br>
 2511235 - Tamaki Baba </br>
@@ -610,6 +609,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511267 - Tappei Maekawa<br/>
 2511298 - Takahiro Monno </br>
 2411415 - Settewong Tasha </br>
+2511204 - Hinata Nagaoka
 2511278 - Takashi Matsumoto - Appletea0673 <br/>
 2511363 – LU TONG <br/>
 2511359 - CHEN Yueting <br/>
