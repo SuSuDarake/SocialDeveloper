@@ -41,6 +41,7 @@ studentID - username <br/>
 2411043 - Motoharu Okuma<br/>
 2511109 - Kojima Hikaru, kozihika<br/>
 2411019 - Hayato Ide<br/>
+2511342 - Sun rongjun<br/>
 2211421 - Wang Zihang<br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
