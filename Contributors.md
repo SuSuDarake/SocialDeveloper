@@ -231,6 +231,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2011416 - Vittunyuta Maeprasart </br>
 2111066 - Yuka Okuda<br/>
 2111122 - Eito Sato<br/>
+2511138 - Eito Shimizu<br/>
 2111073 - Riku Otono<br/>
 2211117 - Ryosuke Kondo<br/>
 2111015 - Hiroki Ikoma
