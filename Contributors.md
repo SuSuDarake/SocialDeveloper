@@ -220,6 +220,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2111219 - Fukuda Takumi<br/>
 2011156 - Teyon Son<br/>
 2311332 - Harland<br/>
+2511276 - Matsunaga Ritsuki<br/>
 2111167 - Hayato Tsubaki<br/>
 2111249 - Takashi Matsumoto<br/>
 2111109 - Takumi Goto<br/>
