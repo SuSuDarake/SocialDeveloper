@@ -601,6 +601,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511096 - Hidaka Kuno </br>
 2511345 - YIN Feiyang </br>
 2511227 - Yoshito Hagihara</br>
+2511204 - Hinata Nagaoka
 2511118 - Akihiro Saeki</br>
 2511055 - Hikaru Okamoto </br>
 2511235 - Tamaki Baba </br>
