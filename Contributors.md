@@ -45,6 +45,7 @@ studentID - username <br/>
 2411019 - Hayato Ide<br/>
 2511342 - Sun rongjun<br/>
 2211421 - Wang Zihang<br/>
+2511159 - Yosuke Sekiya <br/>
 25122098 - Andres Mohali <br/>
 2311070 - Yuto Ohashi <br/>
 2511089 - Yuto Kitamura <br/>
@@ -600,7 +601,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511145 - Ayane Shirakawa </br>
 2311406 - Rownak - 3207-Rhims </br>
 2311428 - Syafrudin Rais Akhdan(neozoxix) </br>
-2511059 - Izumi Ogura - Izu8 </br>
+2311059 - Izumi Ogura - Izu8 </br>
 2511259 - yfLCJCXR </br>
 2411093 - Koki Kitajima </br>
 2511347 - Keiyo-Z </br>
@@ -674,3 +675,4 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511060 - Midori Osaki (id:verde-m)
 2511143 - Haruna Joko <br/>
 2511085 - Gakuto Kita (id: PitaPitaPiPiPi) <br/>
+2511159 - Yosuke Sekiya <br/>
